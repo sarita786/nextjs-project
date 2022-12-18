@@ -12,6 +12,7 @@ function AllEventsPage() {
     const fullPath = `/events/${year}/${month}`;
 
     router.push(fullPath);
+    
   }
 
   return(
