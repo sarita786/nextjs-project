@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## About APP
+This is a NextEvent app using next js where user can see the list of events and can able to see the detail of events. Also with this app user can search the upcoming events through search button by putting date and month.
+
 ## Getting Started
 
 First, run the development server:
